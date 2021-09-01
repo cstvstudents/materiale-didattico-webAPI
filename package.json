@@ -1,0 +1,26 @@
+{
+  "name": "materiale-didattico-webapi",
+  "version": "1.0.0",
+  "description": "Web Api per materiale didattico",
+  "main": "app.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstvstudents/materiale-didattico-webAPI.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cstvstudents/materiale-didattico-webAPI/issues"
+  },
+  "homepage": "https://github.com/cstvstudents/materiale-didattico-webAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
